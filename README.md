@@ -1,8 +1,11 @@
 ![Banner](https://github.com/user-attachments/assets/03645013-116d-4055-8829-23cbec428e9a)
 ## Welcome to my Zone!
 Lancelot Here!
+
 17 y.o. Senior High in China, speak _Chinese_, _English_ & _Japanese_.
+
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS).
+
 Lead Developer of Edenlinux Series
 ### Learning
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
