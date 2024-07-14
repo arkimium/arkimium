@@ -16,6 +16,7 @@ Lead Developer of Edenlinux Series
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-blue?&style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
 ### DevTools more used
 [![Jetbrains](https://img.shields.io/badge/JetBrains-aqua?&style=for-the-badge&logo=jetbrains&logoColor=black)](https://jetbrains.com)
+
 I also use VS Code. But Sorry it's under unfree licence ~~so I cannot show it~~. :m
 ### My Repos
 [![GitLab](https://img.shields.io/badge/GitLab-purple?&style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/arkimium_76)
