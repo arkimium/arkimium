@@ -2,11 +2,12 @@
 ## Welcome to my Zone!
 Lancelot Here!
 
-17 y.o. Senior High in China, speak _Chinese_, _English_ & _Japanese_.
+17 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
 
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS).
 
-Lead Developer of Edenlinux Series
+Lead Developer of Edenlinux Series.
+
 ### Learning
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
 [![GNU Guix](https://img.shields.io/badge/GNU%20Guix-yellow?&style=for-the-badge&logo=guilded&logoColor=white)](https://guix.gnu.org)
@@ -20,11 +21,19 @@ Lead Developer of Edenlinux Series
 ### DevTools more used
 [![Jetbrains](https://img.shields.io/badge/JetBrains-aqua?&style=for-the-badge&logo=jetbrains&logoColor=black)](https://jetbrains.com)
 
-I also use VS Code. But Sorry it's under unfree licence ~~so I cannot show it~~. :m
+I also use VS Code. But Sorry it's under unfree licence ~~so I cannot show the logo~~. :m
+### Languages most used
+[![Lua](https://img.shields.io/badge/Lua-blue?&style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
+[![Python](https://img.shields.io/badge/Python-yellow?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
 ### My Repos
 [![GitLab](https://img.shields.io/badge/GitLab-purple?&style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/arkimium_76)
 [![Gitee](https://img.shields.io/badge/Gitee-white?&style=for-the-badge&logo=gitee&logoColor=red)](https://gitee.com/arkimium_76)
 
 Edenlinux Series will be synced in these repos.
-PS. Except Gitee, GitHub & GitLab Repos are setted GPG Key which Valid for 1 year. Every **14 Jun** you need to change the GPG Key.
+PS. Except Gitee, GitHub & GitLab Repos are setted GPG Key which Valid for 1 year. Every **14 Jul** you need to change the GPG Key.
 Blog: [arkimium.io](https://arkimium.github.io)
+
+## Edenlinux Series Product
+   - yarnOS -> With sets of DevOps Tools
+   - ZeroOS -> Gaming Only.
