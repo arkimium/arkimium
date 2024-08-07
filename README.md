@@ -1,6 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/03645013-116d-4055-8829-23cbec428e9a)
 ## Welcome to my Zone!
-Lancelot Here!
+My Name: Lancelot Cayde Constantine
+
+Codename: LainY
 
 17 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
 
