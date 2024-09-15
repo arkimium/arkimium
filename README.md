@@ -29,6 +29,7 @@ I also use VS Code. But Sorry it's under unfree licence ~~so I cannot show the l
 [![Python](https://img.shields.io/badge/Python-yellow?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
 ### My Repos
+PS. Gitee Mirror Service now no longer available!
 [![GitLab](https://img.shields.io/badge/GitLab-purple?&style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/arkimium_76)
 [![Gitee](https://img.shields.io/badge/Gitee-white?&style=for-the-badge&logo=gitee&logoColor=red)](https://gitee.com/arkimium_76)
 
@@ -36,6 +37,6 @@ Edenlinux Series will be synced in these repos.
 PS. Except Gitee, GitHub & GitLab Repos are setted GPG Key which Valid for 1 year. Every **14 Jul** you need to change the GPG Key.
 Blog: [arkimium.io](https://arkimium.github.io)
 
-## Edenlinux Series Product
-   - yarnOS -> With sets of DevOps Tools
-   - ZeroOS -> Gaming Only.
+## LainY's Plannings
+   - LingmoOS (Nix) "Yaksha"
+   - MondeGH (*Yet another GitHub's yay. A GitHub Software Release Manager*)
