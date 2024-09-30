@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/03645013-116d-4055-8829-23cbec428e9a)
 ## Welcome to my Zone!
-My Name: Lancelot Cayde Constantine
+My Name: Lycaon Cayde Constantine
 
 Codename: LainY
 
@@ -8,7 +8,7 @@ Codename: LainY
 
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS).
 
-Lead Developer of Edenlinux Series.
+Maintainer of LingmoNix Yaksha Project, Former Lead Developer of Edenlinux Series.
 
 ### Learning
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
@@ -20,6 +20,7 @@ Lead Developer of Edenlinux Series.
 ### More used Operating Systems
 [![ZorinOS](https://img.shields.io/badge/ZorinOS-gray?&style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-blue?&style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
+[![Android by Google Pixel](https://img.shields.io/badge/Google%20Android-black?style=for-the-badge&logo=android&logoColor=green)](https://android.com)
 ### DevTools more used
 [![Jetbrains](https://img.shields.io/badge/JetBrains-aqua?&style=for-the-badge&logo=jetbrains&logoColor=black)](https://jetbrains.com)
 
@@ -29,14 +30,15 @@ I also use VS Code. But Sorry it's under unfree licence ~~so I cannot show the l
 [![Python](https://img.shields.io/badge/Python-yellow?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
 ### My Repos
-PS. Gitee Mirror Service now no longer available!
+PS. GitLab and Gitee's mirrors service will no longer maintained now.
+
 [![GitLab](https://img.shields.io/badge/GitLab-purple?&style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/arkimium_76)
 [![Gitee](https://img.shields.io/badge/Gitee-white?&style=for-the-badge&logo=gitee&logoColor=red)](https://gitee.com/arkimium_76)
 
-Edenlinux Series will be synced in these repos.
-PS. Except Gitee, GitHub & GitLab Repos are setted GPG Key which Valid for 1 year. Every **14 Jul** you need to change the GPG Key.
-Blog: [arkimium.io](https://arkimium.github.io)
+Edenlinux Series will be ~synced in these repos.~ archived.
+~PS. Except Gitee, GitHub & GitLab Repos are setted GPG Key which Valid for 1 year. Every **14 Jul** you need to change the GPG Key.~
+~Blog: [arkimium.io](https://arkimium.github.io)~ X is now my blog that I am bloging there.
 
 ## LainY's Plannings
    - LingmoOS (Nix) "Yaksha"
-   - MondeGH (*Yet another GitHub's yay. A GitHub Software Release Manager*)
+   - ~MondeGH (*Yet another GitHub's yay. A GitHub Software Release Manager*)~
