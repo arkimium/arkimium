@@ -1,8 +1,9 @@
-![Banner](https://github.com/user-attachments/assets/03645013-116d-4055-8829-23cbec428e9a)
+![Purple White Black Sci-fi Punk Gaming YouTube Banner](https://github.com/user-attachments/assets/225dff4b-438d-4160-b35c-8ca001be7aed)
+
 ## Welcome to my Zone!
 My Name: Lycaon Constantine Cayde
 
-Codename: immaYaksha, arkimium, Zackyo, 白柳子夏, 令狐龙秋
+Codename: immaYaksha, arkimium, Zackyo, 白柳子夏(BL.ZX) , 令狐龙秋.
 
 17 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
 
