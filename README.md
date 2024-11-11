@@ -2,7 +2,7 @@
 ## Welcome to my Zone!
 My Name: Lycaon Constantine Cayde
 
-Codename: Yaksha, arkimium, Zackyo.
+Codename: immaYaksha, arkimium, Zackyo, 白柳子夏, 令狐龙秋
 
 17 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
 
