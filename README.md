@@ -3,9 +3,9 @@
 ## Welcome to my Zone!
 My Name: Lycaon Constantine Cayde
 
-Codename: immaYaksha, arkimium, Zackyo, 白柳子夏(BL.ZX) , 令狐龙秋.
+Codename: Yaksha, arkimium, 白柳子夏(BL.ZX).
 
-17 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
+18 y.o. Senior High Student in China, speak _Chinese_, _English_ & _Japanese_.
 
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS).
 
