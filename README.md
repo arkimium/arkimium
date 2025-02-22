@@ -9,7 +9,7 @@ Codename: Yaksha, arkimium, 白柳子夏(BL.ZX).
 
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS) and [HuggingFace](https://huggingface.co).
 
-Maintainer of LingmoNix Yaksha Project.
+Maintainer of LingmoNix Yaksha Project. The 2rd CEO of the Penocony Software Foundation.
 
 ### Learning
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
