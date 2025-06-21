@@ -9,7 +9,7 @@
 <p align="center">Trying to connect to every devs in the universe!
 
 
-![Lycaon Constantine Cayde's card name](https://cardivo.vercel.app/api?name=Lycaon%20Constantine%2-Cayde&description=18%20yo%20amateur%20dev%20based%20in%20Wuhan%20and%20use%20arch%20btw&image=https://avatars.githubusercontent.com/u/114994536?v=4&backgroundColor=%23ecf0f1&github=arkimium&twitter=Yaksha白柳子夏&pattern=leaf&colorPattern=%23eaeaea&disableAnimation=true)
+![Lycaon Constantine Cayde's card name](https://cardivo.vercel.app/api?name=Lycaon%20Constantine%20Cayde&description=18%20yo%20amateur%20dev%20based%20in%20Wuhan%20and%20use%20arch%20btw&image=https://avatars.githubusercontent.com/u/114994536?v=4&backgroundColor=%23ecf0f1&github=arkimium&twitter=Yaksha白柳子夏&pattern=leaf&colorPattern=%23eaeaea&disableAnimation=true)
 
 Amateur Developer. Now Studying [@NixOS](https://github.com/NixOS) and [HuggingFace](https://huggingface.co).
 
