@@ -1,7 +1,7 @@
 ![Purple White Black Sci-fi Punk Gaming YouTube Banner](https://github.com/user-attachments/assets/225dff4b-438d-4160-b35c-8ca001be7aed)
 
 ## <p align="center">Welcome to my Zone!
-<p align="center">Lycaon Constantine Cayde / 白柳子夏 (BL.ZX) / 문성준 (Seongjun Mun) / 牧野 誠 (Makino Makoto).
+<p align="center">Lycaon Constantine Cayde / 白柳子夏 (BL.ZX)
 
 <p align="center">Codename: Yaksha, arkimium.
 
